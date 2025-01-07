@@ -1,0 +1,31 @@
+Aquí tienes una sección de **Requirements** (Requisitos) que puedes agregar a tu `README.md`. Puedes copiarla y adaptarla según las dependencias o herramientas que utilice tu proyecto:
+
+```markdown
+## Requirements
+
+To run **Drawaria CutPictures**, ensure you have the following installed:
+
+- **Node.js** (v16 or higher) - [Download Node.js](https://nodejs.org/)
+- **npm** (usually comes with Node.js) or **yarn** - [Download Yarn](https://yarnpkg.com/)
+- **Git** (optional, for cloning the repository) - [Download Git](https://git-scm.com/)
+
+### Dependencies
+
+The project uses the following key dependencies (automatically installed via `npm install` or `yarn install`):
+
+- [Library Name 1](https://example.com) - Brief description of its purpose.
+- [Library Name 2](https://example.com) - Brief description of its purpose.
+- [Library Name 3](https://example.com) - Brief description of its purpose.
+
+### Optional Tools
+
+- **ImageMagick** (if using advanced image processing) - [Download ImageMagick](https://imagemagick.org/)
+- **GraphicsMagick** (alternative to ImageMagick) - [Download GraphicsMagick](http://www.graphicsmagick.org/)
+```
+
+### Instrucciones:
+1. Reemplaza `[Library Name]` con las bibliotecas o dependencias que uses en tu proyecto.
+2. Si tu proyecto no usa Node.js o npm, ajusta los requisitos según el lenguaje o framework que utilices (por ejemplo, Python, Ruby, etc.).
+3. Si no necesitas herramientas adicionales como ImageMagick, elimina esa sección.
+
+¡Espero que esto te sea útil! 😊
